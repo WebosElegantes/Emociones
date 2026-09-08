@@ -11,3 +11,11 @@ ollama: Sirve para comunicarse con un modelo de lenguaje local Llama 3.1 que se 
 json: Se emplea para interpretar la respuesta del modelo de ia local y extraer fácilmente los datos de "relacion" y "emocion" en un formato estructurado.
 
 tqdm: Se utiliza para generar una barra de progreso, lo que permite al usuario ver el avance mientras el modelo analiza todos los comentarios.
+
+tinker: Para la interfaz gráfica del usuario.
+
+treading: Ejecuta los procesos de descarga y análisis en segundo plano.
+
+re:  Para extraer de manera precisa la URL del video.
+
+youtube_transcript_api: Descarga los subtítulos o transcripción automática del audio del video.
